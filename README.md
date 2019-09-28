@@ -19,4 +19,4 @@ Blank: the button with "nothing". Clear all chess on the board.
 ### When you press "S" on your keyboard, you will be allowed to input something. Type any name you want. It records the board you have now, and can be loaded to mode 1 or mode 2 as you press "L" to load it. 
 
 ## Pictures
-Download from https://blog.udn.com/puzzlez/4342425.
+Download from http://blog.udn.com/puzzlez/4342425.
