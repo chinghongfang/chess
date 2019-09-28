@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>src/picture/110.png</file>
+        <file>src/picture/111.png</file>
+        <file>src/picture/112.png</file>
+        <file>src/picture/113.png</file>
+        <file>src/picture/114.png</file>
+        <file>src/picture/115.png</file>
+        <file>src/picture/116.png</file>
+        <file>src/picture/121.png</file>
+        <file>src/picture/122.png</file>
+        <file>src/picture/123.png</file>
+        <file>src/picture/124.png</file>
+        <file>src/picture/125.png</file>
+        <file>src/picture/126.png</file>
+        <file>src/picture/back.png</file>
+        <file>src/picture/danger.png</file>
+        <file>src/picture/dark.png</file>
+        <file>src/picture/moveable.png</file>
+        <file>src/picture/select.png</file>
+        <file>src/picture/white.png</file>
+        <file>src/picture/cancel.png</file>
+        <file>src/picture/reset.png</file>
+    </qresource>
+</RCC>
